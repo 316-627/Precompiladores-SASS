@@ -59,3 +59,17 @@ las cuales estan verificadas por el aplicativo (W3C)
 -[X] 👍 Validado por el aplicativo (W3C) 
 -[X] 👍 Utilizamos nuevo vocabulario de programacion para utilizar en las paginas 
 -[X] 👍 Lo anterior se encuentra en la carpeta llamada (provecto card)
+
+### NOTAS PROYECTO CARDS
+-[X] 👍 Este proyecto tiene interaccion en la forma de responsive 
+-[X] 👍 En este proyecto se puede ver como se genera el responsive y el cambio de tamaños  
+-[X] 👍 Este proyecto puede servir para varias funciones
+-[X] 👍 Puede servir para paginas con dinamica
+-[X] 👍 Este proyecto contiene contenido de bootstrap
+-[X] 👍 En este proyecto se compilo 
+-[X] 👍 El proyecto contiene (Java) 
+-[X] 👍 En todos los archivos se utilizaros diferentes herramientas que contiene la version de (html5)
+-[X] 👍 Contienen informacion de bootstrap 
+-[X] 👍 Validado por el aplicativo (W3C) 
+-[X] 👍 Utilizamos nuevo vocabulario de programacion para utilizar en las paginas 
+-[X] 👍 Lo anterior se encuentra en la carpeta llamada (provecto card)
