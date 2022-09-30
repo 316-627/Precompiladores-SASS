@@ -1,0 +1,62 @@
+
+$principal:rgb(155, 70, 158);
+
+$primary: $principal;
+$enable-shadows: true;
+$enable-gradients: true;
+$btn-padding-y:0.8rem;
+$btn-padding-x:1.5rem;
+$btn-border-radius:1rem;
+
+
+@import "../libs/bootstrap/scss/bootstrap";
+
+.btn-primary{
+    border-bottom: 3px solid rgba(10, 9, 9, 0.9);
+}
+.custom-class{
+    display: none;
+}
+
+@include media-breakpoint-up(xs){
+    .custom-class {
+        display: block;
+        height: 300px;
+        #img1{
+            width: 480px;
+            height: 300px;
+            }
+    }
+}
+
+@include media-breakpoint-up(sm){
+    .custom-class {
+        display: block;
+        height: 200px;
+        #img1{
+            width: 155px;
+            height: 200px;
+            }
+    }
+}
+
+@include media-breakpoint-up(md){
+    .custom-class {
+        display: flex;
+        height: 400px;
+        #img1{
+            width: 460px;
+            height: 400px;
+            }
+    }
+}
+@include media-breakpoint-up(lg){
+    .custom-class {
+        display: flex;
+        height: 200px;
+        #img1{
+            width: 1300px;
+            height: 200px;
+            }
+    }
+}
